@@ -29,13 +29,14 @@ body {
 }
 
 .logo {
-    font-size: 24px;
-    font-weight: bold;
-    color: #fff;
+    height: 40px;
+    display: flex;
+    align-items: center;
 }
 
-.logo span {
-    color: #0066cc;
+.logo img {
+    height: 100%;
+    width: auto;
 }
 
 /* Стили для навигационного меню */
